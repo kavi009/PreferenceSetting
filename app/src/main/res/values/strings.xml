@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PreferenceSetting</string>
+    <string name="set_preferences">set_preferences</string>
+</resources>
